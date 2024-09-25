@@ -24,3 +24,4 @@ No significant difference in the average amount spent between the two groups.
 -**Version Control**: Git, GitHub
 
 
+[Statistical Calculations](https://docs.google.com/spreadsheets/d/18_5Luce_yx4LVsjTvbfNsQt1UmI7uUjiX244RpaICQA/edit?usp=sharing)
