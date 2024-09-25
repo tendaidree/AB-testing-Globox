@@ -1,6 +1,4 @@
-# Project Name
-
-AB Test Globox
+# AB Test Globox
 
 AB test done on a hypothetical company called Globox, the thrust of the project is determine whether a new barner on the mobile website will increase revenue and conversions.
 
