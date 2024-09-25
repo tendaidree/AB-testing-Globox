@@ -20,7 +20,9 @@ No significant difference in the average amount spent between the two groups.
 
 ## Tools and Technologies Used
 -**Tools**: PostgreSQL, Excel, Google sheets, Tableau
+
 -**Data Analysis**: A/B Testing and Statistical Analysis, Exploratory data analysis, Data cleaning, Data visualization
+
 -**Version Control**: Git, GitHub
 
 
