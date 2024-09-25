@@ -3,20 +3,11 @@
 google sheets link: https://docs.google.com/spreadsheets/d/18_5Luce_yx4LVsjTvbfNsQt1UmI7uUjiX244RpaICQA/edit?usp=sharing
 
 
-tableau public link:
+tableau public links:
 
-key metrics : https://public.tableau.com/app/profile/tendai.zvarevashe/viz/Book2_17056124509470/Conversionrateandaverageamountspent?publish=yes
-
-Device: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/Book2_17056124509470/AvgamountandConversionrateperDevice?publish=yes
-
-Country: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/Book2_17056124509470/AvgamountandConversionrateperCountry?publish=yes
-
-Gender: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/Book2_17056124509470/AvgamountandConversionrateperGender?publish=yes
+key metrics :  https://public.tableau.com/app/profile/tendai.zvarevashe/viz/ABtestmatrics/AvgamountandConversionrateperGender
 
 Novelty: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/novelty_17069115976100/Sheet1?publish=yes
 
-CI: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/confidenceinterval_17082913948810/Confidencelntervallevelsamountspent?publish=yes
+CI: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/CIanalysis_17272807816840/Confidencelntervallevelsconversionrate
 
-CI: https://public.tableau.com/app/profile/tendai.zvarevashe/viz/confidenceinterval_17082913948810/Confidencelntervallevelsconversionrate?publish=yes
-
-presentation video link:
