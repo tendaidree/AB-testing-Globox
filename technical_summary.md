@@ -10,6 +10,7 @@ banner at the top of the website. The control group does not see the banner, and
 
 ## Hypotheses
 Null Hypothesis: There is no change in (conversion rate or average spend) between the groups.
+
 Alternative Hypothesis: There is a change in (conversion rate or average spend) between the groups
 
 ## Methodology
@@ -17,11 +18,14 @@ Alternative Hypothesis: There is a change in (conversion rate or average spend) 
 
 The setup of the A/B test is as follows:
 
-i.The experiment is only being run on the mobile website
-ii. A user visits the GloBox main page and is randomly assigned to either the control or test group. This is the join date for the user.
-iii. The page loads the banner if the user is assigned to the test group, and does not load the banner if the user is assigned to the control group.
-iv. The user subsequently may or may not purchase products from the website. It could be on the same day they join the experiment, or days later and 
-  if they do make one or more purchases, this is considered a “conversion”.
+1.The experiment is only being run on the mobile website
+
+2. A user visits the GloBox main page and is randomly assigned to either the control or test group. This is the join date for the user.
+
+3. The page loads the banner if the user is assigned to the test group, and does not load the banner if the user is assigned to the control group.
+
+4. The user subsequently may or may not purchase products from the website. It could be on the same day they join the experiment, or days later and if they do make one or more purchases, this is considered a “conversion”.
+
 
 - **Population:** 
 Sample size of Control group (A) 24343
@@ -47,8 +51,7 @@ Conversion rate (the increase in conversion rate comparing the two groups)
 
 2. After cleaning and transforming the data, a new dataset was created and exported to Tableau Desktop for exploratory data visualization.
 
-3.The same dataset was also analysed in Google Sheets for hypothesis testing and determining confidence intervals. 
-These confidence interval values were then added to the existing dataset and exported to Tableau for visualization.
+3.The same dataset was also analysed in Google Sheets for hypothesis testing and determining confidence intervals. These confidence interval values were then added to the existing dataset and exported to Tableau for visualization.
 
 4.Another dataset was extracted in sql then exported to Tableau Desktop to check for novelty effects. 
   
