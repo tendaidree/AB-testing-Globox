@@ -25,8 +25,11 @@ No significant difference in the average amount spent between the two groups.
 
 
 [Statistical Calculations](https://docs.google.com/spreadsheets/d/18_5Luce_yx4LVsjTvbfNsQt1UmI7uUjiX244RpaICQA/edit?usp=sharing)
+
 [Key Metrics Visualization](https://public.tableau.com/app/profile/tendai.zvarevashe/viz/ABtestmatrics/AvgamountandConversionrateperGender)
-[COnfidence Interval Visualization](https://public.tableau.com/app/profile/tendai.zvarevashe/viz/CIanalysis_17272807816840/Confidencelntervallevelsconversionrate)
+
+[Confidence Interval Visualization](https://public.tableau.com/app/profile/tendai.zvarevashe/viz/CIanalysis_17272807816840/Confidencelntervallevelsconversionrate)
+
 [Novelty Effect Visualization](https://public.tableau.com/app/profile/tendai.zvarevashe/viz/novelty_17069115976100/Sheet1?publish=yes)
 
 
